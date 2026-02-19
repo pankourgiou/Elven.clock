@@ -1,0 +1,1 @@
+Put the copy pasted code which should also be saved as an .html on the same folder with this file...then double click and you have a full working elf style clock..it's a poem about seasons what you see...not really with some kind of use yet very good aesthetically.enjoy!![Seasons](https://github.com/user-attachments/assets/a3dad480-cab9-4163-bb88-acec829ad1c4)
